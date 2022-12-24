@@ -1,0 +1,5 @@
+name = "developer"
+compatibility_date = "2022-12-24"
+
+routes = [	{ pattern = "subdomain.gssp.io", custom_domain = true }]
+d
